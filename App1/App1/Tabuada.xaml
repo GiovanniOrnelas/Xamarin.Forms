@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Tabuada">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Digite a tabuada que deseja multiplicar" FontSize="Medium"/>
+            <Entry x:Name ="etNumeroTabuada" Keyboard="Numeric" Placeholder="Número..." FontSize="Subtitle" />
+            <StackLayout Orientation="Horizontal">
+                <Button Text ="Calcular" Clicked ="BtCalcular_Clicked" />
+            </StackLayout>
+            <Label x:Name="lbResp" FontSize="Medium"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

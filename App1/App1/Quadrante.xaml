@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Quadrante">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Digite o eixo X" FontSize="Medium"/>
+            <Entry x:Name ="etX" Keyboard="Numeric" Placeholder="X"/>
+            <Label Text="Digite o eixo Y" FontSize="Medium"/>
+            <Entry x:Name ="etY" Keyboard="Numeric" Placeholder="Y"/>
+            <StackLayout Orientation="Horizontal">
+                <Button Text ="Calcular" Clicked ="BtCalcular_Clicked" />
+            </StackLayout>
+            <Label x:Name="lbResp" FontSize="Medium"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

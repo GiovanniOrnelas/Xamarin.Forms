@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListviewApp.ListviewPage3"
+             BackgroundColor="Silver"
+             >
+
+    <ListView x:Name="listview" SeparatorColor="White" >
+
+        <ListView.ItemTemplate>
+
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" Padding="4">
+                        <Image Source="{Binding Imagem}"/>
+                        <StackLayout HorizontalOptions="StartAndExpand">
+                            <Label Text="{Binding Pontos}" TextColor="SlateGray" FontSize="Medium"/>
+                            <Label Text="{Binding Nome}" TextColor="DarkSlateGray" FontSize="Medium"/>
+
+                        </StackLayout>
+                        <Button Text="Selecionar"/>
+                    </StackLayout>
+                    
+                </ViewCell>
+            </DataTemplate>
+
+        </ListView.ItemTemplate>
+
+
+    </ListView>
+    
+    
+</ContentPage>

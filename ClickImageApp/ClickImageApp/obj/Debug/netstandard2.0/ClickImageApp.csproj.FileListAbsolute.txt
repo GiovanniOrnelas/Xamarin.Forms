@@ -1,0 +1,16 @@
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\bin\Debug\netstandard2.0\ClickImageApp.deps.json
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\bin\Debug\netstandard2.0\ClickImageApp.dll
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\bin\Debug\netstandard2.0\ref\ClickImageApp.dll
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\bin\Debug\netstandard2.0\ClickImageApp.pdb
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\ClickImageApp.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\ClickImageApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\ClickImage.xaml.g.cs
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\ClickImageApp.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\ClickImageApp.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\ClickImageApp.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\ClickImageApp.dll
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\ref\ClickImageApp.dll
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\ClickImageApp.pdb
+C:\Users\Giovanni\source\repos\ClickImageApp\ClickImageApp\obj\Debug\netstandard2.0\Exercicio01.xaml.g.cs

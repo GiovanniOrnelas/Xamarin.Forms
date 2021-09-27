@@ -1,0 +1,15 @@
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\SwitchApp.deps.json
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\SwitchApp.dll
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\ref\SwitchApp.dll
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\bin\Debug\netstandard2.0\SwitchApp.pdb
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.dll
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\ref\SwitchApp.dll
+C:\Users\Giovanni\source\repos\SwitchApp\SwitchApp\SwitchApp\obj\Debug\netstandard2.0\SwitchApp.pdb

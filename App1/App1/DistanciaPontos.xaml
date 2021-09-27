@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.DistanciaPontos">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Digite a coordenada X do ponto A" 
+                   FontSize="Medium"/>
+            
+            <Entry x:Name ="etValorXa" Keyboard="Numeric" 
+                   Placeholder="Coordenada Xa do ponto A..."/>
+            
+            <Label Text="Digite a coordenada Y do ponto A" 
+                   FontSize="Medium"/>
+            
+            <Entry x:Name ="etValorYa" Keyboard="Numeric" 
+                   Placeholder="Coordenada Xb do ponto A..."/>
+            
+            <Label Text="Digite a coordenada X do ponto B" 
+                   FontSize="Medium"/>
+            
+            <Entry x:Name ="etValorXb" Keyboard="Numeric" 
+                   Placeholder="Coordenada Xa do ponto B..."/>
+            
+            <Label Text="Digite a coordenada Y do ponto B" 
+                   FontSize="Medium"/>
+            
+            <Entry x:Name ="etValorYb" Keyboard="Numeric" 
+                   Placeholder="Coordenada Xb do ponto B..."/>
+            
+            <StackLayout Orientation="Horizontal">
+                <Button Text ="Executar" Clicked ="BtExecutar_Clicked" />
+            </StackLayout>
+            
+            <Label x:Name="lbResp" />
+        
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

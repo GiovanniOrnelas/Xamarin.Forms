@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayout.StackLayoutPage">
+    <!--><ContentPage.Content>
+        <StackLayout BackgroundColor="Green" VerticalOptions="Center" HorizontalOptions="Center" 
+                    Padding="20" Margin="20" Orientation="Horizontal">
+            
+            <StackLayout BackgroundColor="LawnGreen" Padding="10">
+                <Label Text="SENAC - TI20 - PARTE 1" TextColor="White"/>
+                <Image Source="http://www.macoratti.net/Imagens/animais/cao1.jpg" 
+                       WidthRequest="100" HeightRequest=" 100" Aspect="AspectFit"/>
+            </StackLayout>
+            
+            <StackLayout BackgroundColor="GreenYellow" Padding="10">
+                <Label Text="SENAC - TI20 - PARTE 2" TextColor="White"/>
+                <Image Source="http://www.macoratti.net/Imagens/animais/cao1.jpg" 
+                       WidthRequest="100" HeightRequest=" 100" Aspect="AspectFit"/>
+            </StackLayout>
+            
+            <StackLayout BackgroundColor="LightGreen" Padding="10">
+                <Label Text="SENAC - TI20 - PARTE 3" TextColor="White"/>
+                <Image Source="http://www.macoratti.net/Imagens/animais/cao1.jpg" 
+                       WidthRequest="100" HeightRequest=" 100" Aspect="AspectFit"/>
+            </StackLayout>
+       
+        </StackLayout>
+    </ContentPage.Content>-->
+</ContentPage>

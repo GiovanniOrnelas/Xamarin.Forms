@@ -1,0 +1,17 @@
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\ScrollViewApp.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\ScrollViewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\ScrollViewApp.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\ScrollViewApp.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\ScrollViewApp.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\ScrollViewApp.dll
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\ref\ScrollViewApp.dll
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\ScrollViewApp.pdb
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\bin\Debug\netstandard2.0\ScrollViewApp.deps.json
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\bin\Debug\netstandard2.0\ScrollViewApp.dll
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\bin\Debug\netstandard2.0\ref\ScrollViewApp.dll
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\bin\Debug\netstandard2.0\ScrollViewApp.pdb
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\Exercicio1.xaml.g.cs
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp\obj\Debug\netstandard2.0\Exercicio2.xaml.g.cs

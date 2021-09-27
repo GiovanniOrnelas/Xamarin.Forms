@@ -1,0 +1,15 @@
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\bin\Debug\netstandard2.0\AbsolutePage10.deps.json
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\bin\Debug\netstandard2.0\AbsolutePage10.dll
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\bin\Debug\netstandard2.0\ref\AbsolutePage10.dll
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\bin\Debug\netstandard2.0\AbsolutePage10.pdb
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\obj\Debug\netstandard2.0\AbsolutePage10.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\obj\Debug\netstandard2.0\AbsolutePage10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\obj\Debug\netstandard2.0\AbsolutePage1.xaml.g.cs
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\obj\Debug\netstandard2.0\AbsolutePage10.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\obj\Debug\netstandard2.0\AbsolutePage10.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\obj\Debug\netstandard2.0\AbsolutePage10.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\obj\Debug\netstandard2.0\AbsolutePage10.dll
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\obj\Debug\netstandard2.0\ref\AbsolutePage10.dll
+C:\Users\Giovanni\source\repos\AbsolutePage10\AbsolutePage10\obj\Debug\netstandard2.0\AbsolutePage10.pdb

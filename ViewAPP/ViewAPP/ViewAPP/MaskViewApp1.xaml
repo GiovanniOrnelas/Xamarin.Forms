@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ViewAPP.MaskViewApp1">
+    <StackLayout>
+    <DatePicker BackgroundColor="Black"
+                TextColor="White"
+                Format="dd MM yyyy"
+                DateSelected="DatePicker_DateSelected" x:Name="dtp1"
+                MinimumDate="01 Jan 2021"
+                MaximumDate="20 September 2021"/>
+
+        <TimePicker BackgroundColor="Black" 
+                    TextColor="White"
+                    Time="16:31"
+                    Format="hh:mm">
+            
+        </TimePicker>
+
+        <Label x:Name="lbl" BackgroundColor="Orange" 
+               TextColor="Red" FontSize="Medium"
+               />
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentView xmlns="http://xamarin.com/schemas/2014/forms" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ContentViewApp.Pagina2">
+  <ContentView.Content>
+      <StackLayout VerticalOptions="FillAndExpand" Padding="25">
+            <Frame>
+                <Image 
+               Source="https://www.otaboanense.com.br/wp-content/uploads/2020/03/logo_senac__alta.jpg" 
+                HeightRequest="200"/>
+            </Frame>
+            <Label Text="Usuário" HorizontalOptions="Start"/>
+            <Entry Placeholder="Nome de usuário" HorizontalOptions="FillAndExpand" TextColor="Green"/>
+            <Label Text="Senha" HorizontalOptions="Start"/>
+            <Entry Placeholder="Senha do usuário" HorizontalOptions="FillAndExpand" TextColor="Green"/>
+            <Button Text="Login" HorizontalOptions="CenterAndExpand"/>
+        </StackLayout>
+  </ContentView.Content>
+</ContentView>

@@ -1,0 +1,1 @@
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2.UWP\RelativeLayoutApp2.UWP.csproj;x86

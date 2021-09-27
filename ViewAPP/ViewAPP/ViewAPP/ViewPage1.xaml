@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ViewAPP.ViewPage1">
+
+    <StackLayout >
+        
+        <Entry Placeholder="Nome" PlaceholderColor="Black" 
+               TextColor="Purple" Keyboard="Text" FontSize="Medium"></Entry>
+        
+        <Entry Placeholder="E-mail" PlaceholderColor="Black" 
+               TextColor="Red" Keyboard="Email" FontSize="Medium"></Entry>
+        
+        <Entry PlaceholderColor="Black" 
+               Placeholder="Telefone" TextColor="Orange"
+               Keyboard="Telephone" FontSize="Medium"></Entry>
+       
+        <Entry Placeholder="Senha"  IsPassword="True" PlaceholderColor="Black" 
+               TextColor="Blue" FontSize="Medium" Completed="Entry_Completed"></Entry>
+        
+        <Entry Placeholder="Idade" PlaceholderColor="Black"
+               TextColor="Green" Keyboard="Numeric" 
+               TextChanged="Entry_TextChanged" FontSize="Medium"></Entry>
+       
+        <Label BackgroundColor="Black" TextColor="White" x:Name="lbl" 
+               FontSize="Medium"></Label>
+
+        <Editor BackgroundColor="Orange" 
+                VerticalOptions="FillAndExpand" FontSize="Medium"
+                FontAttributes="Bold" TextColor="Black"
+                >
+        </Editor>
+    
+    </StackLayout>
+</ContentPage>

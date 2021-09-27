@@ -1,0 +1,15 @@
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\bin\Debug\netstandard2.0\TableView.deps.json
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\bin\Debug\netstandard2.0\TableView.dll
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\bin\Debug\netstandard2.0\ref\TableView.dll
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\bin\Debug\netstandard2.0\TableView.pdb
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\obj\Debug\netstandard2.0\TableView.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\obj\Debug\netstandard2.0\TableView.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\obj\Debug\netstandard2.0\TableViewPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\obj\Debug\netstandard2.0\TableView.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\obj\Debug\netstandard2.0\TableView.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\obj\Debug\netstandard2.0\TableView.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\obj\Debug\netstandard2.0\TableView.dll
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\obj\Debug\netstandard2.0\ref\TableView.dll
+C:\Users\Giovanni\source\repos\TableView\TableView\TableView\obj\Debug\netstandard2.0\TableView.pdb

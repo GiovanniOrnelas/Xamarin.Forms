@@ -1,0 +1,16 @@
+C:\Users\Giovanni\source\repos\Senha\Senha\bin\Debug\netstandard2.0\Senha.deps.json
+C:\Users\Giovanni\source\repos\Senha\Senha\bin\Debug\netstandard2.0\Senha.dll
+C:\Users\Giovanni\source\repos\Senha\Senha\bin\Debug\netstandard2.0\ref\Senha.dll
+C:\Users\Giovanni\source\repos\Senha\Senha\bin\Debug\netstandard2.0\Senha.pdb
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\Senha.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\Senha.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\Senha.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\Senha.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\Senha.dll
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\ref\Senha.dll
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\Senha.pdb
+C:\Users\Giovanni\source\repos\Senha\Senha\obj\Debug\netstandard2.0\sla.xaml.g.cs

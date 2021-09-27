@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PickerPage.PickerPage">
+
+    <StackLayout Padding="20">
+        <Picker Title="Estado Civil" 
+                BackgroundColor="Black"
+                TextColor="White" 
+                TitleColor="Red"
+                FontSize="20"
+                SelectedIndexChanged="Picker_SelectedIndexChanged"
+                x:Name="picestadocivil">
+            <Picker.Items>
+                <x:String>Casado</x:String>
+                <x:String>Solteiro</x:String>
+                <x:String>Divorciado</x:String>
+                <x:String>Separado</x:String>
+                <x:String>Viúvo</x:String>
+            </Picker.Items>
+        </Picker>
+    </StackLayout>
+
+</ContentPage>

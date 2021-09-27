@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SwitchApp.SwitchPage">
+
+    <StackLayout HorizontalOptions="Center" 
+            VerticalOptions="Center">
+    
+        <Switch IsToggled="True" 
+            ThumbColor="Black"
+            OnColor="Red"
+            x:Name="switch1"
+            Toggled="switch1_Toggled"/>
+
+        <Label x:Name="lbl" FontSize="30" TextColor="Black"/>
+
+        <Button x:Name="btn" 
+                Text="Apagar" 
+                TextColor="White" 
+                BackgroundColor="Black"
+                BorderColor="Green"
+                BorderWidth="2"
+                IsVisible="{Binding Source={x:Reference switch1}, Path=IsToggled}"
+                FontSize="25"/>
+
+    </StackLayout>
+
+</ContentPage>

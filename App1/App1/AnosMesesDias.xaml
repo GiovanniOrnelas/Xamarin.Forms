@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.AnosMesesDias">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Algoritmo que mostra quantos dias você viveu" FontSize="Medium" />
+            
+            <Label Text="Digite a sua idade em anos" FontSize="Subtitle"/>
+            
+            <Entry x:Name ="etIdade" Keyboard="Numeric" Placeholder="Idade"/>
+            
+            <Label Text="Digite quantos meses se passaram do seu aniversário" FontSize="Subtitle"/>
+            
+            <Entry x:Name ="etMeses" Keyboard="Numeric" Placeholder="Meses"/>
+            
+            <Label Text="Digite quantos dias se passaram durante os meses" FontSize="Subtitle"/>
+            
+            <Entry x:Name ="etDias" Keyboard="Numeric" Placeholder="Dias"/>
+         
+            <StackLayout Orientation="Horizontal">
+                <Button Text ="Executar" Clicked ="BtExecutar_Clicked" />
+            </StackLayout>
+            
+            <Label x:Name="lbResp" FontSize="Subtitle" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

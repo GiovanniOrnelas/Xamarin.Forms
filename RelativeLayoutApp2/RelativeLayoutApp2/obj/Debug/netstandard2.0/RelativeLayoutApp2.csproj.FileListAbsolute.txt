@@ -1,0 +1,17 @@
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\RelativeLayoutApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\RelativeLayoutApp2.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\RelativeLayoutApp2.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\RelativeLayoutApp2.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\RelativeLayoutApp2.dll
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\ref\RelativeLayoutApp2.dll
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\RelativeLayoutApp2.pdb
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\bin\Debug\netstandard2.0\RelativeLayoutApp2.deps.json
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\bin\Debug\netstandard2.0\RelativeLayoutApp2.dll
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\bin\Debug\netstandard2.0\ref\RelativeLayoutApp2.dll
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\bin\Debug\netstandard2.0\RelativeLayoutApp2.pdb
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\RelativeLayoutApp2.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\Exercicio2.xaml.g.cs
+C:\Users\Giovanni\source\repos\RelativeLayoutApp2\RelativeLayoutApp2\obj\Debug\netstandard2.0\Exercicio3.xaml.g.cs

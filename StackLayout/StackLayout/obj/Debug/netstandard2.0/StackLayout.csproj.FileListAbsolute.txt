@@ -1,0 +1,17 @@
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\bin\Debug\netstandard2.0\StackLayout.deps.json
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\bin\Debug\netstandard2.0\StackLayout.dll
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\bin\Debug\netstandard2.0\ref\StackLayout.dll
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\bin\Debug\netstandard2.0\StackLayout.pdb
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayoutPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.dll
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\ref\StackLayout.dll
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\StackLayout.pdb
+C:\Users\Giovanni\source\repos\StackLayout\StackLayout\obj\Debug\netstandard2.0\Exercicio1.xaml.g.cs

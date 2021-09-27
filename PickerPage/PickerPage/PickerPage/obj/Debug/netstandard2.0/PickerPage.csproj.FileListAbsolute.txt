@@ -1,0 +1,15 @@
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\bin\Debug\netstandard2.0\PickerPage.deps.json
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\bin\Debug\netstandard2.0\PickerPage.dll
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\bin\Debug\netstandard2.0\ref\PickerPage.dll
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\bin\Debug\netstandard2.0\PickerPage.pdb
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\obj\Debug\netstandard2.0\PickerPage.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\obj\Debug\netstandard2.0\PickerPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\obj\Debug\netstandard2.0\PickerPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\obj\Debug\netstandard2.0\PickerPage.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\obj\Debug\netstandard2.0\PickerPage.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\obj\Debug\netstandard2.0\PickerPage.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\obj\Debug\netstandard2.0\PickerPage.dll
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\obj\Debug\netstandard2.0\ref\PickerPage.dll
+C:\Users\Giovanni\source\repos\PickerPage\PickerPage\PickerPage\obj\Debug\netstandard2.0\PickerPage.pdb

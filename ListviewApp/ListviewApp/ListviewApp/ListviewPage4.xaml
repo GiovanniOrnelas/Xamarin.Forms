@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ListviewApp.ListviewPage4" BackgroundColor="Gray">
+
+    <ListView x:Name="listview" SeparatorColor="White" 
+              HasUnevenRows="True"  IsGroupingEnabled="True"
+              GroupDisplayBinding="{Binding Nome}"
+              Header="Classificação do Brasileirão - 2017"
+              Footer="------------------ FIM ------------------">
+
+        <ListView.ItemTemplate>
+
+            <DataTemplate>
+                <ViewCell>
+                    <StackLayout Orientation="Horizontal" Padding="4">
+                        <Image Source="{Binding Imagem}" WidthRequest="50" HeightRequest="50"/>
+                        <StackLayout>
+                        <Label Text="{Binding Pontos}" TextColor="Black" FontSize="Medium"
+                               FontAttributes="Bold"/>
+                            <Label Text="{Binding Nome}" TextColor="Pink" 
+                                   FontSize="Medium"/>
+                        </StackLayout>
+                    <StackLayout HorizontalOptions="EndAndExpand">
+                        <Button Text="Selecionar"/>
+                        </StackLayout>
+                    </StackLayout>
+
+                </ViewCell>
+            </DataTemplate>
+
+        </ListView.ItemTemplate>
+
+    </ListView>
+
+
+</ContentPage>

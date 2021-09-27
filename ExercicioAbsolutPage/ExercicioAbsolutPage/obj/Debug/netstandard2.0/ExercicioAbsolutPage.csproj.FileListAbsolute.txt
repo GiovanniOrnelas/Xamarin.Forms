@@ -1,0 +1,15 @@
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\bin\Debug\netstandard2.0\ExercicioAbsolutPage.deps.json
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\bin\Debug\netstandard2.0\ExercicioAbsolutPage.dll
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\bin\Debug\netstandard2.0\ref\ExercicioAbsolutPage.dll
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\bin\Debug\netstandard2.0\ExercicioAbsolutPage.pdb
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\obj\Debug\netstandard2.0\ExercicioAbsolutPage.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\obj\Debug\netstandard2.0\ExercicioAbsolutPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\obj\Debug\netstandard2.0\Exercicio1.xaml.g.cs
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\obj\Debug\netstandard2.0\ExercicioAbsolutPage.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\obj\Debug\netstandard2.0\ExercicioAbsolutPage.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\obj\Debug\netstandard2.0\ExercicioAbsolutPage.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\obj\Debug\netstandard2.0\ExercicioAbsolutPage.dll
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\obj\Debug\netstandard2.0\ref\ExercicioAbsolutPage.dll
+C:\Users\Giovanni\source\repos\ExercicioAbsolutPage\ExercicioAbsolutPage\obj\Debug\netstandard2.0\ExercicioAbsolutPage.pdb

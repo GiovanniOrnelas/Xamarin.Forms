@@ -1,0 +1,17 @@
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\bin\Debug\netstandard2.0\ContentViewApp.deps.json
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\bin\Debug\netstandard2.0\ContentViewApp.dll
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\bin\Debug\netstandard2.0\ref\ContentViewApp.dll
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\bin\Debug\netstandard2.0\ContentViewApp.pdb
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\ContentViewApp.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\ContentViewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\Pagina1.xaml.g.cs
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\ContentViewApp.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\ContentViewApp.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\ContentViewApp.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\ContentViewApp.dll
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\ref\ContentViewApp.dll
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\ContentViewApp.pdb
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\Pagina2.xaml.g.cs
+C:\Users\Giovanni\source\repos\ContentViewApp\ContentViewApp\obj\Debug\netstandard2.0\Pagina3.xaml.g.cs

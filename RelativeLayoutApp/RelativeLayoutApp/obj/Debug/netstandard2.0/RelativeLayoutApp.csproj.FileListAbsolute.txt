@@ -1,0 +1,10 @@
+C:\Users\Giovanni\source\repos\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativePage.xaml.g.cs
+C:\Users\Giovanni\source\repos\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.dll
+C:\Users\Giovanni\source\repos\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\ref\RelativeLayoutApp.dll
+C:\Users\Giovanni\source\repos\RelativeLayoutApp\RelativeLayoutApp\obj\Debug\netstandard2.0\RelativeLayoutApp.pdb

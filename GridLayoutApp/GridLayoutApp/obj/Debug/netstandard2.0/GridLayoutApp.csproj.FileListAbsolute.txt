@@ -1,0 +1,16 @@
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\bin\Debug\netstandard2.0\GridLayoutApp.deps.json
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\bin\Debug\netstandard2.0\GridLayoutApp.dll
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\bin\Debug\netstandard2.0\ref\GridLayoutApp.dll
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\bin\Debug\netstandard2.0\GridLayoutApp.pdb
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\GridLayoutApp.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\GridLayoutApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\GridLayoutPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\GridLayoutApp.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\GridLayoutApp.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\GridLayoutApp.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\GridLayoutApp.dll
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\ref\GridLayoutApp.dll
+C:\Users\Giovanni\source\repos\GridLayoutApp\GridLayoutApp\obj\Debug\netstandard2.0\GridLayoutApp.pdb

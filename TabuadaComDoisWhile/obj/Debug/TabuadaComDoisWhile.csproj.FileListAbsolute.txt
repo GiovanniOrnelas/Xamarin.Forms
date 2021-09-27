@@ -1,0 +1,7 @@
+C:\Users\Giovanni\source\repos\TabuadaComDoisWhile\bin\Debug\TabuadaComDoisWhile.exe.config
+C:\Users\Giovanni\source\repos\TabuadaComDoisWhile\bin\Debug\TabuadaComDoisWhile.exe
+C:\Users\Giovanni\source\repos\TabuadaComDoisWhile\bin\Debug\TabuadaComDoisWhile.pdb
+C:\Users\Giovanni\source\repos\TabuadaComDoisWhile\obj\Debug\TabuadaComDoisWhile.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\TabuadaComDoisWhile\obj\Debug\TabuadaComDoisWhile.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\TabuadaComDoisWhile\obj\Debug\TabuadaComDoisWhile.exe
+C:\Users\Giovanni\source\repos\TabuadaComDoisWhile\obj\Debug\TabuadaComDoisWhile.pdb

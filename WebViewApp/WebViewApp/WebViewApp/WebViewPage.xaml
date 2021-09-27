@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="WebViewApp.WebViewPage">
+
+    <StackLayout>
+        <Entry x:Name="entryUrl" Placeholder="Informe a url"/>
+        <Button Text="Enviar" x:Name="btnExibir" Clicked="btnExibir_Clicked"/>
+        <Button x:Name="exibirHTML" Text="Exibir HTML" Clicked="exibirHTML_Clicked"/>
+        <Button x:Name="exibirHTMLLocal"
+                Text="Exibir HTML Local" 
+                Clicked="exibirHTMLLocal_Clicked"/>
+        <WebView x:Name="webview" VerticalOptions="FillAndExpand"/>
+    </StackLayout>
+
+
+</ContentPage>

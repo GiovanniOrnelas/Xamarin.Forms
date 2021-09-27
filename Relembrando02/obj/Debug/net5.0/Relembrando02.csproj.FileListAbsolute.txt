@@ -1,0 +1,15 @@
+C:\Users\Giovanni\source\repos\Relembrando02\bin\Debug\net5.0\Relembrando02.exe
+C:\Users\Giovanni\source\repos\Relembrando02\bin\Debug\net5.0\Relembrando02.deps.json
+C:\Users\Giovanni\source\repos\Relembrando02\bin\Debug\net5.0\Relembrando02.runtimeconfig.json
+C:\Users\Giovanni\source\repos\Relembrando02\bin\Debug\net5.0\Relembrando02.runtimeconfig.dev.json
+C:\Users\Giovanni\source\repos\Relembrando02\bin\Debug\net5.0\Relembrando02.dll
+C:\Users\Giovanni\source\repos\Relembrando02\bin\Debug\net5.0\ref\Relembrando02.dll
+C:\Users\Giovanni\source\repos\Relembrando02\bin\Debug\net5.0\Relembrando02.pdb
+C:\Users\Giovanni\source\repos\Relembrando02\obj\Debug\net5.0\Relembrando02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\Relembrando02\obj\Debug\net5.0\Relembrando02.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\Relembrando02\obj\Debug\net5.0\Relembrando02.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\Relembrando02\obj\Debug\net5.0\Relembrando02.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\Relembrando02\obj\Debug\net5.0\Relembrando02.dll
+C:\Users\Giovanni\source\repos\Relembrando02\obj\Debug\net5.0\ref\Relembrando02.dll
+C:\Users\Giovanni\source\repos\Relembrando02\obj\Debug\net5.0\Relembrando02.pdb
+C:\Users\Giovanni\source\repos\Relembrando02\obj\Debug\net5.0\Relembrando02.genruntimeconfig.cache

@@ -1,0 +1,1 @@
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp.UWP\ActivityIndicatorApp.UWP.csproj;x86

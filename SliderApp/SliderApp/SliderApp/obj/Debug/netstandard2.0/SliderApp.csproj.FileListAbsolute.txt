@@ -1,0 +1,15 @@
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\bin\Debug\netstandard2.0\SliderApp.deps.json
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\bin\Debug\netstandard2.0\SliderApp.dll
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\bin\Debug\netstandard2.0\ref\SliderApp.dll
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\bin\Debug\netstandard2.0\SliderApp.pdb
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\obj\Debug\netstandard2.0\SliderApp.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\obj\Debug\netstandard2.0\SliderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\obj\Debug\netstandard2.0\SliderPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\obj\Debug\netstandard2.0\SliderApp.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\obj\Debug\netstandard2.0\SliderApp.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\obj\Debug\netstandard2.0\SliderApp.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\obj\Debug\netstandard2.0\SliderApp.dll
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\obj\Debug\netstandard2.0\ref\SliderApp.dll
+C:\Users\Giovanni\source\repos\SliderApp\SliderApp\SliderApp\obj\Debug\netstandard2.0\SliderApp.pdb

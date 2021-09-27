@@ -1,0 +1,1 @@
+C:\Users\Giovanni\source\repos\ScrollViewApp\ScrollViewApp.UWP\ScrollViewApp.UWP.csproj;x86

@@ -1,0 +1,15 @@
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\bin\Debug\netstandard2.0\ActivityIndicatorApp.deps.json
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\bin\Debug\netstandard2.0\ActivityIndicatorApp.dll
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\bin\Debug\netstandard2.0\ref\ActivityIndicatorApp.dll
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\bin\Debug\netstandard2.0\ActivityIndicatorApp.pdb
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\obj\Debug\netstandard2.0\ActivityIndicatorApp.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\obj\Debug\netstandard2.0\ActivityIndicatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\obj\Debug\netstandard2.0\ImagePage2.xaml.g.cs
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\obj\Debug\netstandard2.0\ActivityIndicatorApp.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\obj\Debug\netstandard2.0\ActivityIndicatorApp.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\obj\Debug\netstandard2.0\ActivityIndicatorApp.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\obj\Debug\netstandard2.0\ActivityIndicatorApp.dll
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\obj\Debug\netstandard2.0\ref\ActivityIndicatorApp.dll
+C:\Users\Giovanni\source\repos\ActivityIndicatorApp\ActivityIndicatorApp\obj\Debug\netstandard2.0\ActivityIndicatorApp.pdb

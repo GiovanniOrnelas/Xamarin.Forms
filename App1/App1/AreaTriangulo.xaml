@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.AreaTriangulo">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Digite o valor do primeiro lado do triângulo" FontSize="Medium"/>
+            <Entry x:Name ="etLado1" Keyboard="Numeric" Placeholder="Informe o valor do 1º lado" />
+            <Label Text="Digite o valor do segundo lado do triângulo" FontSize="Medium"/>
+            <Entry x:Name ="etLado2" Keyboard="Numeric" Placeholder="Informe o valor do 2º lado"/>
+            <Label Text="Digite o valor do terceiro lado do triângulo" FontSize="Medium"/>
+            <Entry x:Name ="etLado3" Keyboard="Numeric" Placeholder="Informe o valor do 3º lado"/>
+            <StackLayout Orientation="Horizontal">
+                <Button Text ="Executar" Clicked ="BtExecutar_Clicked" />
+            </StackLayout>
+            <Label x:Name="lbResp" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

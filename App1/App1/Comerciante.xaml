@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.Comerciante">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="Digite o valor da compra para receber seu lucro" FontSize="Medium"/>
+            <Entry x:Name ="etCompra" Keyboard="Numeric" Placeholder="Valor..." FontSize="Subtitle"/>
+            <StackLayout Orientation="Horizontal">
+                <Button Text ="Executar" Clicked ="BtExecutar_Clicked" />
+            </StackLayout>
+            <Label x:Name="lbResp" FontSize="Medium" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayout.Exercicio1">
+    <ContentPage.Content>
+
+        <StackLayout Padding="0,30,0,0">
+            <Label Text="Torta de Maça" FontSize="Medium" Padding="30,0,0,0" TextColor="Gray"/>
+            <Image Source="https://www.tvgazeta.com.br/wp-content/uploads/2016/01/revista-cidade-receitas-torta-maca-enfeiticada.jpg" 
+                   WidthRequest="200" HeightRequest="200" />
+
+            <StackLayout Orientation="Horizontal" Spacing="30" Padding="30" HorizontalOptions="CenterAndExpand">
+                <Button Text="Like" WidthRequest="60" HeightRequest="40"/>
+                <Button Text="Comentar" />
+                <Button Text="Compartilhar" />
+            </StackLayout>
+
+            <BoxView  Color="Gray" HeightRequest="1" HorizontalOptions="Center" WidthRequest="400"/>
+
+            <StackLayout Padding="10,10,0,0">
+                <Label Text="250 likes" FontSize="Medium" TextColor="Gray"/>
+                <Label Text="Descasque as maças, retire as sementes e corte-as em fatias não muito finas. Passe as fatias no açúcar cristal misturado com a canela em pó. Reserve. Unte uma forma refratária com manteiga e forre o fundo com uma camada de fatias de maçâ." FontSize="Subtitle" TextColor="Gray" />
+            </StackLayout>
+
+        </StackLayout>
+
+    </ContentPage.Content>
+</ContentPage>

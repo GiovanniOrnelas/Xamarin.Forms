@@ -1,0 +1,15 @@
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\bin\Debug\netstandard2.0\WebViewApp.deps.json
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\bin\Debug\netstandard2.0\WebViewApp.dll
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\bin\Debug\netstandard2.0\ref\WebViewApp.dll
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\bin\Debug\netstandard2.0\WebViewApp.pdb
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\obj\Debug\netstandard2.0\WebViewApp.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\obj\Debug\netstandard2.0\WebViewApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\obj\Debug\netstandard2.0\WebViewPage.xaml.g.cs
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\obj\Debug\netstandard2.0\WebViewApp.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\obj\Debug\netstandard2.0\WebViewApp.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\obj\Debug\netstandard2.0\WebViewApp.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\obj\Debug\netstandard2.0\WebViewApp.dll
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\obj\Debug\netstandard2.0\ref\WebViewApp.dll
+C:\Users\Giovanni\source\repos\WebViewApp\WebViewApp\WebViewApp\obj\Debug\netstandard2.0\WebViewApp.pdb

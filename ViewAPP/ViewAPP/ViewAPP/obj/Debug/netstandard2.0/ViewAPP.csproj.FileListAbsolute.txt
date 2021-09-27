@@ -1,0 +1,16 @@
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\ViewAPP.csproj.AssemblyReference.cache
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\ViewAPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\ViewPage1.xaml.g.cs
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\ViewAPP.AssemblyInfoInputs.cache
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\ViewAPP.AssemblyInfo.cs
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\ViewAPP.csproj.CoreCompileInputs.cache
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\bin\Debug\netstandard2.0\ViewAPP.deps.json
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\bin\Debug\netstandard2.0\ViewAPP.dll
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\bin\Debug\netstandard2.0\ref\ViewAPP.dll
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\bin\Debug\netstandard2.0\ViewAPP.pdb
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\ViewAPP.dll
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\ref\ViewAPP.dll
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\ViewAPP.pdb
+C:\Users\Giovanni\source\repos\ViewAPP\ViewAPP\ViewAPP\obj\Debug\netstandard2.0\MaskViewApp1.xaml.g.cs
